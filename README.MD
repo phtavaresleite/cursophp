@@ -3,7 +3,7 @@
 Repositório dedicado aos exercícios, desafios e projetos desenvolvidos durante o curso de PHP do **Curso em Vídeo**, ministrado pelo professor Gustavo Guanabara.
 
 ![PHP Badge](https://img.shields.io/badge/PHP-8.3%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-blue?style=for-the-badge)
 
 ## 📚 Sobre o Curso
 Curso completo de PHP moderno, abordando desde conceitos básicos até funcionalidades avançadas:
